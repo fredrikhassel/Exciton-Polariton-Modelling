@@ -24,7 +24,7 @@ Also in the code is a transfer matrix method representation of the optical setup
 
 ### Code availability
 
-The full project code is available, with the file titled "Cleaned main" containing the main code with extra comments and annotations.
+The full project code is available, with the file titled "Cleaned main" containing the main code with extra comments and annotations. All files in the Data folder are neccesary to run the code.
 
 ### Citations
 All resources consulted in the development of the present codebase is extensively cited in the project report.
